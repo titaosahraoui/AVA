@@ -50,7 +50,7 @@ const Navbar = () => {
         <button className="login">Login</button>
         <button className="register">Register</button>
       </div>
-      <div className="nav-logo flex justify-center items-center w-[100%] ">
+      <div className="flex justify-center items-center w-[100%]">
         <div className="nav-links flex gap-10 mt-4  text-sm  ">
           <a className="link " href="/" data-replace="Home">
             <span>Home</span>

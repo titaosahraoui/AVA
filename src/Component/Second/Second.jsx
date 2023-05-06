@@ -7,6 +7,7 @@ import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 import "./second.css";
 import { articals } from "../../data";
+import { Link } from "react-router-dom";
 
 const Second = () => {
   return (
@@ -24,16 +25,19 @@ const Second = () => {
           onSwiper={(swiper) => console.log(swiper)}
           onSlideChange={() => console.log("slide change")}
         >
-          {articals.map((i, key) => (
-            <SwiperSlide className=" w-[100%] h-[100%] flex gap-10" key={i.id}>
+          {articals.map((product) => (
+            <SwiperSlide
+              className=" w-[100%] h-[100%] flex gap-10"
+              key={product.id}
+            >
               <div className="card w-[280px] cursor-pointer">
                 <div className="imgBx">
-                  <img className="imgBx" src={i.img} alt="" />
+                  <img className="imgBx" src={product.img} alt="" />
                 </div>
                 <div className="contentBx">
                   <div className="contentBx2">
-                    <h1 color="#fff">{i.name}</h1>
-                    <a href="#">Buy Now</a>
+                    <h1 color="#fff">{product.name}</h1>
+                    <Link to={`/products/${product.id}`}>Buy Now</Link>
                   </div>
                   <img
                     className="imgicone"
@@ -60,8 +64,8 @@ const Second = () => {
           onSwiper={(swiper) => console.log(swiper)}
           onSlideChange={() => console.log("slide change")}
         >
-          {articals.map((i, id) => (
-            <SwiperSlide className=" w-[100%] h-[100%] flex gap-10">
+          {articals.map((i, key) => (
+            <SwiperSlide className=" w-[100%] h-[100%] flex gap-10" key={i.id}>
               <div className="card w-[280px]" key={i.id}>
                 <div className="imgBx">
                   <img className="imgBx" src={i.img} alt="" />

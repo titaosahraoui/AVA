@@ -2,8 +2,6 @@ import React from "react";
 import { articals } from "../../data";
 import "./demo.css";
 
-const displayedArticles = articals.slice(0, 4);
-
 const Demo = () => {
   return (
     <div className="demo">
@@ -11,7 +9,7 @@ const Demo = () => {
         <h1>Best sellers</h1>
       </div>
       <div className="container">
-        {displayedArticles.map((i, key) => (
+        {articals.slice(0, 4).map((i) => (
           <div className="card" key={i.id}>
             <div className="imgBx">
               <img className="imgBx" src={i.img} alt="" />
