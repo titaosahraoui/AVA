@@ -1,0 +1,26 @@
+{
+  "orderItems": [
+    {
+      "name": "CHARMOUNT Full Motion TV Wall Mount Swivel",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg",
+      "price": 15,
+      "product": "64232ac301226ea1ecf86bb1"
+    }
+  ],
+  "shippingInfo": {
+    "address": "123 Main Street",
+    "city": "Example City",
+    "phoneNo": "1234567890",
+    "postalCode": "12345",
+    "country": "Example Country"
+  },
+  "itemPrice": 25,
+  "taxPrice": 10,
+  "shippingPrice": 2.5,
+  "totalPrice": 37.5,
+  "paymentInfo": {
+    "id": "pi_jqkjbdasjdhiqwdwe",
+    "status": "Success"
+  }
+}
