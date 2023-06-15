@@ -70,20 +70,20 @@
   transition-duration: 0.5s;
   transition-timing-function: ease-in;
 }
-a {
+.navbar a {
   overflow: hidden;
   position: relative;
   display: inline-block;
 }
 
-a::before,
+.navbar a::before,
 a::after {
   content: "";
   position: absolute;
   width: 100%;
   left: 0;
 }
-a::before {
+.navbar a::before {
   background-color: #fdde67;
   height: 2px;
   bottom: 0;
@@ -91,7 +91,7 @@ a::before {
   transform: scaleX(0);
   transition: transform 0.3s cubic-bezier(0.76, 0, 0.24, 1);
 }
-a::after {
+.navbar a::after {
   content: attr(data-replace);
   height: 100%;
   top: 0;

@@ -1,26 +1,26 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import logo from "../../images/logo-no-background.png";
 import "./navbar.css";
 
-window.onscroll = function () {
-  myFunction();
-};
-
-const myFunction = () => {
-  var nav = document.querySelector(".navbar");
-  var logoo = document.querySelector(".img");
-
-  if (nav && logoo && window.pageYOffset) {
-    logoo.classList.add("hide");
-    nav.classList.add("lol");
-  } else {
-    logoo.classList.remove("hide");
-    nav.classList.remove("lol");
-  }
-};
-
 const Navbar = () => {
+  useEffect(() => {
+    window.onscroll = function () {
+      myFunction();
+    };
+    const myFunction = () => {
+      const nav = document.querySelector(".navbar");
+      const logoo = document.querySelector(".img");
+
+      if (nav && logoo && window.pageYOffset) {
+        logoo.classList.add("hide");
+        nav.classList.add("lol");
+      } else {
+        logoo.classList.remove("hide");
+        nav.classList.remove("lol");
+      }
+    };
+  }, []);
   return (
     <div
       id="navbar"
@@ -47,7 +47,9 @@ const Navbar = () => {
             alt=""
           />
         </button>
-        <button className="login">Login</button>
+        <a href="/login">
+          <button className="login">Login</button>{" "}
+        </a>
         <button className="register">Register</button>
       </div>
       <div className="flex justify-center items-center w-[100%]">

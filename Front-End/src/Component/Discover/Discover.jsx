@@ -31,79 +31,79 @@ const Discover = () => {
             <source
               type="image/webp"
               media="(max-width: 22.5rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1678986390157&amp;qlt=80&amp;wid=360&amp;hei=348"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1678986390157&amp;qlt=80&amp;wid=360&amp;hei=348"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1678986390157&amp;qlt=80&amp;wid=360&amp;hei=348"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1678986390157&amp;qlt=80&amp;wid=360&amp;hei=348"
             />
             <source
               type="image/webp"
               media="(max-width: 26rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010656&amp;qlt=80&amp;wid=414&amp;hei=400"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010656&amp;qlt=80&amp;wid=414&amp;hei=400"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010656&amp;qlt=80&amp;wid=414&amp;hei=400"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010656&amp;qlt=80&amp;wid=414&amp;hei=400"
             />
             <source
               type="image/webp"
               media="(max-width: 46.99rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               type="image/webp"
               media="(max-width: 46.99rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010657&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               type="image/webp"
               media="(max-width: 80rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               type="image/webp"
               media="(max-width: 80rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010659&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               type="image/webp"
               media="(min-width: 90rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010661&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010661&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010661&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=webp-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010661&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               media="(max-width: 22.5rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010662&amp;qlt=80&amp;wid=360&amp;hei=348"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010662&amp;qlt=80&amp;wid=360&amp;hei=348"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010662&amp;qlt=80&amp;wid=360&amp;hei=348"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010662&amp;qlt=80&amp;wid=360&amp;hei=348"
             />
             <source
               media="(max-width: 26rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010663&amp;qlt=80&amp;wid=414&amp;hei=400"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010663&amp;qlt=80&amp;wid=414&amp;hei=400"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010663&amp;qlt=80&amp;wid=414&amp;hei=400"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010663&amp;qlt=80&amp;wid=414&amp;hei=400"
             />
             <source
               media="(max-width: 46.99rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010664&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010664&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010664&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010664&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               media="(max-width: 63.99rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               media="(max-width: 80rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010665&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               media="(max-width: 90rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010666&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010666&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010666&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010666&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <source
               media="(min-width: 90rem)"
-              data-srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010667&amp;qlt=80&amp;wid=720&amp;hei=696"
-              srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010667&amp;qlt=80&amp;wid=720&amp;hei=696"
+              data-srcset="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010667&amp;qlt=80&amp;wid=720&amp;hei=696"
+              srcSet="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010667&amp;qlt=80&amp;wid=720&amp;hei=696"
             />
             <img
               src="https://images.hugoboss.com/is/image/hugobossdm/230307_B_MW_Denim_1200x1160?%24large%24&amp;fmt=png-alpha&amp;align=0,-1&amp;fit=crop,1&amp;ts=1679051010668&amp;qlt=80&amp;wid=720&amp;hei=696"

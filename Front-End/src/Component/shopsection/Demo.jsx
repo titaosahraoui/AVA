@@ -17,31 +17,38 @@ const Demo = () => {
 
   return (
     <div className="demo">
-      <div className="header ">
-        <h1>Best sellers</h1>
-      </div>
-      <div className="container">
-        {products &&
-          products.slice(0, 4).map((product) => (
-            <div className="card" key={product._id}>
-              <div className="imgBx">
-                <img className="imgBx" src={product.images[0].url} alt="" />
-              </div>
-              <div className="contentBx">
-                <div className="contentBx2">
-                  <h1 color="#fff">{product.name}</h1>
-                  <h1 color="#fff">{product.price}$</h1>
-                  <a href="#">Buy Now</a>
+      {loading ? (
+        <Loader />
+      ) : (
+        <>
+          <div className="header ">
+            <h1>Best sellers</h1>
+          </div>
+          <div className="container">
+            {products &&
+              products.slice(0, 4).map((product) => (
+                <div className="card" key={product._id}>
+                  <div className="imgBx">
+                    <img className="imgBx" src={product.images[0].url} alt="" />
+                  </div>
+                  <div className="contentBx">
+                    <div className="contentBx2">
+                      <h1 color="#fff">{product.name}</h1>
+                      <h1 color="#fff">{product.price}$</h1>
+                      <a href="#">Buy Now</a>
+                    </div>
+                    <img
+                      className="imgicone"
+                      src="https://cdn-icons-png.flaticon.com/512/8974/8974438.png"
+                      alt=""
+                    />
+                  </div>
                 </div>
-                <img
-                  className="imgicone"
-                  src="https://cdn-icons-png.flaticon.com/512/8974/8974438.png"
-                  alt=""
-                />
-              </div>
-            </div>
-          ))}
-      </div>
+              ))}
+          </div>
+        </>
+      )}
+
       <div className="loadmore">
         <button className="btnload">Load more Product</button>
       </div>
